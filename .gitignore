@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+# Created by the Finder Application
+.DS_Store
